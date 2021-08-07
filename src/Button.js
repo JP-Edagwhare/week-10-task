@@ -1,3 +1,3 @@
 export default function Button() {
-    return <button>More <img src='../public/caret-right-solid.svg'></img></button>
+    return <button>More <i class="fas fa-caret-right"></i></button>
 }
